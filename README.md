@@ -17,4 +17,9 @@ Recipe Hub
 🛠️ Tech Stack
 
   Frontend: React.js
-  
+
+
+  ## ⭐ Like this project? 
+
+If you find this project helpful, please consider giving it a **star** ⭐ on GitHub. It helps others discover the project and keeps me motivated to improve it! 🚀
+
