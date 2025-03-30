@@ -1,4 +1,4 @@
-Recipe Hub
+**Recipe Hub**
 
 
 🍽️ Overview
